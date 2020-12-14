@@ -1,2 +1,2 @@
 # voiceAssistantApp
-This is a voice assistant app developed by me for day-by-day usage.
+This is a voice assistant project in python, here I just practicing voice recognition and so on in python3.
